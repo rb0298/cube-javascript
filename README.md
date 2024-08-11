@@ -9,8 +9,8 @@ Cube is a React-based application built on create react app. It interacts with a
 To install and run Cube App locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/rb0298/WildOasis.git
-cd WildOasis
+git clone https://github.com/rb0298/cube-javascript.git
+cd cube-javascript
 
 Install dependencies:
 npm install
